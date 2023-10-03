@@ -1,0 +1,22 @@
+{
+  "name": "Nina Carducci - Photographe professionnelle à Bordeaux",
+  "short_name": "Nina Carducci",
+  "description": "Portfolio de Nina Carducci : photographe passionnée. Captivante en entreprise, mariages et concerts.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#F6B2B8",
+  "icons": [
+    {
+      "src": "https://mhdgri.github.io/Nina-Carducci/assets/images/nina.webp",
+      "sizes": "281x280",
+      "type": "image/webp"
+    },
+    {
+      "src": "/assets/images/maskable_icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
